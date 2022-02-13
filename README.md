@@ -1,0 +1,1 @@
+# synth-index-cmc-adapter
